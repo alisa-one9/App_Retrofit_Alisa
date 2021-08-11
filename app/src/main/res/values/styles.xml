@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FrameStyle">
+    <item name="android:background">@drawable/frame_stylle</item>
+</style>
+    <style name="BtnStyle">
+        <item name="android:background">@drawable/btn_style</item>
+    </style>
+
+
+
+</resources>
